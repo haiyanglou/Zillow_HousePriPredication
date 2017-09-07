@@ -1,4 +1,4 @@
-# Zillow_HousePriPredication
+# Zillow_HousePricePrediction
 
 This is the final project of course Big Data Management and Analytics.
 We did the project in 3 iterations.
