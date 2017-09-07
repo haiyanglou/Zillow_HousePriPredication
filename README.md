@@ -7,3 +7,4 @@ We did the project in 3 iterations.
 3. Project result analytics and testing
 
 Raw Data (too large to upload) download under: https://www.kaggle.com/c/zillow-prize-1/data
+Output Data compressed in .zip file 
